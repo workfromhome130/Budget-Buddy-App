@@ -21,3 +21,25 @@ This app is designed to help users manage their finances effectively using the r
 - **Framework:** Expo 50
 - **Database:** SQLite
 - **Project Type:** Mobile
+
+## Prerequisites
+
+```yaml
+node.js: 20.19.4
+```
+
+## Getting Started
+
+```bash
+npm i
+
+npm run web
+```
+
+It will open http://localhost:8081/
+
+## Screenshots
+
+![Screenshot 1](./screenshots/screenshot_01.png)
+
+![Screenshot 2](./screenshots/screenshot_02.png)
